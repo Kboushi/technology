@@ -5,5 +5,3 @@ npm info @types/node
 
 
 ```
-
-1
